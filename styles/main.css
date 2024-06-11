@@ -6,6 +6,7 @@
 
 .main-container {
   display: block;
+  position: absolute;
 }
 
 body {
