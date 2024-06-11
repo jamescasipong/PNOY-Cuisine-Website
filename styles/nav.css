@@ -1,0 +1,101 @@
+header {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.9);
+  z-index: 1000;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #ffefe7;
+}
+nav .fa-solid {
+  display: none;
+}
+
+nav h1 {
+  font-size: 1.5rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem; /* Increase gap for spacing */
+}
+
+nav ul li {
+  margin: 0; /* Remove margin */
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+  font-size: 1.25rem; /* Enlarge font size for nav links */
+  font-weight: 600; /* Bold font weight */
+}
+
+nav ul li a:hover {
+  color: #ff792b;
+}
+
+.auth-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.auth-buttons .login,
+.auth-buttons .signup {
+  padding: 0.7rem 1.5rem; /* Enlarge padding for buttons */
+  border: none;
+  cursor: pointer;
+  border-radius: 25px; /* Make buttons rounded */
+  transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+  font-size: 1.25rem; /* Enlarge font size for buttons */
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  width: 130px;
+  height: 50px;
+  text-align: center;
+  vertical-align: center;
+}
+
+.auth-buttons .login {
+  background-color: transparent;
+  border: none; /* Remove border */
+  color: #ff792b; /* Set font color */
+}
+
+.auth-buttons .login:hover {
+  background-color: rgba(255, 121, 43, 0.2); /* Light background on hover */
+}
+
+.auth-buttons .signup {
+  background-color: transparent;
+  border: 2px solid #ff792b; /* Add border */
+  color: #ff792b; /* Set font color */
+}
+
+.auth-buttons .signup:hover {
+  background-color: rgba(255, 121, 43, 0.2); /* Light background on hover */
+}
+
+@media only screen and (max-width: 1050px) {
+  nav ul {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  nav .fa-solid {
+    color: #ff792b;
+    cursor: pointer;
+    display: flex;
+  }
+
+  nav .fa-solid:hover {
+    color: black;
+  }
+}

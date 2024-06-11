@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  display: block;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  scroll-behavior: smooth; /* Add this for smooth scrolling */
+  overflow-x: hidden;
+}
+
+.brand-name {
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem; /* Adjust font size as needed */
+  font-weight: bold; /* Bold font weight */
+  color: #ff792b; /* Default color */
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 20px;
+}
+
+.content {
+  transform: translateY(50px);
+  justify-content: space-between; /* Distributes space between items */
+  align-items: center;
+  display: grid;
+}
+
+.content.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.content p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}

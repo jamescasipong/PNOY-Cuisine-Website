@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modern Restaurant</title>
+    <link rel="stylesheet" href="styles/main.css" />
+    <link rel="stylesheet" href="styles/nav.css" />
+    <link rel="stylesheet" href="styles/home.css" />
+    <link rel="stylesheet" href="styles/about.css" />
+    <link rel="stylesheet" href="styles/menu.css" />
+    <link rel="stylesheet" href="styles/contact.css" />
+    <link rel="stylesheet" href="styles/signup.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/ec50004a37.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="main-container">
+      <header>
+        <nav>
+          <h1 class="brand-name">The Sisig Spot</h1>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#menu">Menu</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+          <div class="auth-buttons">
+            <button class="login">Login</button>
+            <button class="signup">Sign Up</button>
+          </div>
+          <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+        </nav>
+      </header>
+
+      <section id="home" class="section">
+        <div class="content">
+          <div class="column-left">
+            <h1>
+              All different variety of sisigs are available at The Sisig Spot
+            </h1>
+            <div class="home-buttons">
+              <button class="buy-now">Buy Now</button>
+              <button class="how-to-order">How to Order</button>
+            </div>
+          </div>
+          <div class="column-right">
+            <img src="/assets/images/food_image.png" alt="Food Image" />
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="content">
+          <div class="column-left">
+            <h2>About <br /><span>The Sisig Spot</span></h2>
+          </div>
+          <div class="column-right">
+            <p>
+              At The Sisig Spot, we believe in celebrating the rich and
+              flavorful tradition of Filipino cuisine, with a special focus on
+              one of its most beloved dishes: sisig. Located in the heart of
+              Quezon City, Cubao. Our restaurant is a haven for food enthusiasts
+              seeking an authentic and unforgettable dining experience.
+            </p>
+            <br />
+            <p>
+              Our journey began with a simple passion for sharing the
+              mouthwatering flavors of sisig with the world. From the first
+              bite, you’ll discover why this dish has captured the hearts and
+              taste buds of so many. Each serving is a harmonious blend of
+              succulent pork, savory spices, and a hint of citrus, cooked to
+              perfection on a sizzling platter.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="menu" class="section">
+        <div class="content">
+          <h2>Our Menu</h2>
+          <p>Explore our wide variety of dishes.</p>
+        </div>
+      </section>
+
+      <section id="contact" class="section">
+        <div class="content">
+          <h2>Contact Us</h2>
+          <p>Get in touch with us for reservations and queries.</p>
+        </div>
+      </section>
+    </div>
+
+    <!-- Sign Up Container -->
+    <div class="signup-container" id="signup-container">
+      <div class="signup-form">
+        <h2>Sign Up</h2>
+        <form>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" required />
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required />
+          </div>
+          <button type="submit">Sign Up</button>
+        </form>
+      </div>
+    </div>
+
+    <script src="assets/scripts/scrollAnimations.js"></script>
+    <script src="assets/scripts/smoothScrolling.js"></script>
+    <script>
+      // JavaScript for sign-up container
+      const signupButton = document.querySelector(".signup");
+      const signupContainer = document.getElementById("signup-container");
+
+      signupButton.addEventListener("click", () => {
+        signupContainer.style.display = "block";
+      });
+    </script>
+  </body>
+</html>
