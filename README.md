@@ -4,7 +4,7 @@ Welcome to The Sisig Spot, your gateway to the tantalizing world of Filipino cui
 
 ## Screenshot
 
-![The Sisig Spot Screenshot](link_to_screenshot)
+![The Sisig Spot Screenshot](/assets/screenshots/homepage.png)
 
 ## About
 
