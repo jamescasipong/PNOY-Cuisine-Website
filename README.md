@@ -24,7 +24,7 @@ At The Sisig Spot, we're on a mission to bring the bold and flavorful tastes of 
 2. **Place an Order:** Ready to dig in? Simply place your order online for pickup or delivery.
 3. **Stay Connected:** Follow us on social media for the latest updates, promotions, and behind-the-scenes fun!
 
-## Technologies Used
+## Programming Languages Used
 
 The Sisig Spot website is built using the following technologies:
 
