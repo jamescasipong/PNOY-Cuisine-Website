@@ -1,6 +1,8 @@
-![image](https://github.com/jamescasipong/The-Sisig-Spot-Website/assets/144509235/2429ecb4-01b0-468e-bed3-4349b1f399eb)# The Sisig Spot 🍴
+
 
 Welcome to The Sisig Spot, your gateway to the tantalizing world of Filipino cuisine! 🇵🇭
+
+![image](https://github.com/jamescasipong/The-Sisig-Spot-Website/assets/144509235/2429ecb4-01b0-468e-bed3-4349b1f399eb)# The Sisig Spot 🍴
 
 ## About
 
