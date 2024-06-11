@@ -2,10 +2,6 @@
 
 Welcome to The Sisig Spot, your gateway to the tantalizing world of Filipino cuisine! 🇵🇭
 
-## Screenshot
-
-![The Sisig Spot Screenshot](/assets/screenshot/homepage.png)
-
 ## About
 
 At The Sisig Spot, we're on a mission to bring the bold and flavorful tastes of the Philippines straight to your plate. Dive into a culinary adventure with our specialty dish, sisig, known for its sizzling perfection and mouthwatering flavors. But that's just the beginning! Our menu boasts a variety of traditional Filipino dishes, each crafted with love and authenticity.
