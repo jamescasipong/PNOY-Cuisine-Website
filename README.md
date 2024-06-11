@@ -31,19 +31,3 @@ The Sisig Spot website is built using the following technologies:
 ## Contributing
 
 We're always looking to enhance our offerings and improve the experience for our customers. If you have any suggestions, feedback, or want to contribute to our repository, feel free to open an issue or submit a pull request. Let's make The Sisig Spot even better together!
-
-## Join Us
-
-Come on over to The Sisig Spot and embark on a culinary journey like no other. Whether you're a seasoned sisig enthusiast or new to Filipino cuisine, there's something for everyone at our table. Let's sizzle together! 🔥
-
-## Contact Us
-
-Have questions, comments, or just want to say hello? Get in touch with us:
-
-📧 Email: info@thesisigspot.com
-🌐 Website: [www.thesisigspot.com](https://www.thesisigspot.com)
-📱 Social Media: [@TheSisigSpot](https://www.instagram.com/TheSisigSpot)
-
----
-
-[![Visit The Sisig Spot](button_link)](https://www.thesisigspot.com)
