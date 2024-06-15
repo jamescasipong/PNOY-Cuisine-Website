@@ -5,8 +5,7 @@
 }
 
 .main-container {
-  display: block;
-  overflow: auto;
+  display: inline-block;
 }
 
 body {
