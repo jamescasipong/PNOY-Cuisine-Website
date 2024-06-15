@@ -10,6 +10,10 @@
   margin-top: 20px;
 }
 
+.column-left span {
+  color: #ff792b;
+}
+
 #home .content {
   grid-template-columns: 1fr 1fr;
   padding: 3rem calc((100vw - 1300px) / 5);
