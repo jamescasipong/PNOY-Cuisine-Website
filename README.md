@@ -1,22 +1,22 @@
-# The Sisig Spot 🍴
+# PNOYCuisine 🍴
 
-Welcome to The Sisig Spot, your gateway to the tantalizing world of Filipino cuisine! 🇵🇭
-
-## Screenshot
-
-![The Sisig Spot Screenshot](/assets/screenshots/homepage.png)
+Welcome to PNOYCuisine, your gateway to the tantalizing world of Filipino cuisine! 🇵🇭
 
 ## About
 
-At The Sisig Spot, we're on a mission to bring the bold and flavorful tastes of the Philippines straight to your plate. Dive into a culinary adventure with our specialty dish, sisig, known for its sizzling perfection and mouthwatering flavors. But that's just the beginning! Our menu boasts a variety of traditional Filipino dishes, each crafted with love and authenticity.
+At PNOYCuisine, we're on a mission to bring the bold and flavorful tastes of the Philippines straight to your plate. Dive into a culinary adventure with our specialty dish, sisig, known for its sizzling perfection and mouthwatering flavors. But that's just the beginning! Our menu boasts a variety of traditional Filipino dishes, each crafted with love and authenticity.
 
 ## Features
 
-🔥 **Sizzling Sisig:** Experience the sizzle and taste the magic with our signature sisig dishes.
-🍲 **Full Menu:** Explore a wide range of Filipino classics, from hearty stews to crispy delights.
-🥢 **Vegetarian Options:** We cater to all tastes with our selection of vegetarian and vegan-friendly dishes.
-🛒 **Online Ordering:** Conveniently order your favorite meals online for pickup or delivery.
-🎉 **Special Events:** Let us make your special occasions unforgettable with our catering services.
+- **Sizzling Sisig:** Experience the sizzle and taste the magic with our signature sisig dishes.
+- **Full Menu:** Explore a wide range of Filipino classics, from hearty stews to crispy delights.
+- **Vegetarian Options:** We cater to all tastes with our selection of vegetarian and vegan-friendly dishes.
+- **Online Ordering:** Conveniently order your favorite meals online for pickup or delivery.
+- **Special Events:** Let us make your special occasions unforgettable with our catering services.
+
+## Screenshots
+
+![PNOYCuisine Screenshot](/assets/screenshots/homepage.png)
 
 ## How to Use
 
@@ -24,14 +24,13 @@ At The Sisig Spot, we're on a mission to bring the bold and flavorful tastes of 
 2. **Place an Order:** Ready to dig in? Simply place your order online for pickup or delivery.
 3. **Stay Connected:** Follow us on social media for the latest updates, promotions, and behind-the-scenes fun!
 
-## Programming Languages Used
+## Technologies Used
 
-The Sisig Spot website is built using the following technologies:
-
+The PNOYCuisine website is built using:
 - HTML
 - CSS
 - JavaScript
 
 ## Contributing
 
-We're always looking to enhance our offerings and improve the experience for our customers. If you have any suggestions, feedback, or want to contribute to our repository, feel free to open an issue or submit a pull request. Let's make The Sisig Spot even better together!
+We welcome contributions to enhance our offerings and improve the experience for our customers. If you have any suggestions, feedback, or want to contribute to our repository, feel free to open an issue or submit a pull request. Let's make PNOYCuisine even better together!
