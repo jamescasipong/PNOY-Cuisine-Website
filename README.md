@@ -4,7 +4,7 @@ Welcome to PNOYCuisine, your gateway to the tantalizing world of Filipino cuisin
 
 ## About
 
-At PNOYCuisine, we're on a mission to bring the bold and flavorful tastes of the Philippines straight to your plate. Dive into a culinary adventure with our specialty dish, sisig, known for its sizzling perfection and mouthwatering flavors. But that's just the beginning! Our menu boasts a variety of traditional Filipino dishes, each crafted with love and authenticity.
+At PNOYCuisine, we're on a mission to bring the bold and flavorful tastes of the Philippines straight to your plate. Dive into a culinary adventure with our specialty dishes known for its sizzling perfection and mouthwatering flavors. But that's just the beginning! Our menu boasts a variety of traditional Filipino dishes, each crafted with love and authenticity.
 
 ## Note
 
