@@ -82,7 +82,8 @@
 }
 
 .home-buttons .how-to-order:hover {
-  background-color: rgba(255, 121, 43, 0.2);
+  background-color: #ff792b;
+  color: white;
 }
 
 @media only screen and (max-width: 1050px) {

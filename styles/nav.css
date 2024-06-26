@@ -79,7 +79,8 @@ nav ul li a:hover {
 }
 
 .auth-buttons .signup:hover {
-  background-color: rgba(255, 121, 43, 0.2); /* Light background on hover */
+  background-color: #ff792b;
+  color: white; /* Light background on hover */
 }
 
 @media only screen and (max-width: 1050px) {
